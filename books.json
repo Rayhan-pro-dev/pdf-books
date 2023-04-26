@@ -1,11 +1,36 @@
+
 {
     "books": [
         {
-            "code": "BrahmanBaria polytechnic institute",
-            "name": "https://www.bbpi.gov.bd",
-            "price": "BrahmanBaria",
-            "department": "BrahmanBaria",
-            "buyurl": "BrahmanBaria"
+            "code": "6662",
+            "name": "mic",
+            "price": "244",
+            "department": "cmt,ent",
+            "buyurl": "https://rayhan-pro-dev.github.io/pdf-books/books.json"
+
+        },
+        {
+            "code": "6663",
+            "name": "mic app",
+            "price": "233",
+            "department": "all",
+            "buyurl": "https://rayhan-pro-dev.github.io/pdf-books/books.json"
+
+        },
+        {
+            "code": "6664",
+            "name": "database",
+            "price": "230",
+            "department": "ent",
+            "buyurl": "https://rayhan-pro-dev.github.io/pdf-books/books.json"
+
+        },
+        {
+            "code": "6665",
+            "name": "animation",
+            "price": "322",
+            "department": "cmt",
+            "buyurl": "https://rayhan-pro-dev.github.io/pdf-books/books.json"
 
         }
     ]
