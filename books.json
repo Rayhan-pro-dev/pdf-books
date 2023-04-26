@@ -1,36 +1,17 @@
-
- [
-        {
-            "code": "6662",
-            "name": "mic",
-            "price": "244",
-            "department": "cmt,ent",
-            "buyurl": "https://rayhan-pro-dev.github.io/pdf-books/books.json"
-
-        },
-        {
-            "code": "6663",
-            "name": "mic app",
-            "price": "233",
-            "department": "all",
-            "buyurl": "https://rayhan-pro-dev.github.io/pdf-books/books.json"
-
-        },
-        {
+{
+    "0": {
             "code": "6664",
             "name": "database",
             "price": "230",
             "department": "ent",
             "buyurl": "https://rayhan-pro-dev.github.io/pdf-books/books.json"
 
-        },
-        {
-            "code": "6665",
-            "name": "animation",
-            "price": "322",
-            "department": "cmt",
+    },
+    "1": {
+            "code": "6664",
+            "name": "database",
+            "price": "230",
+            "department": "ent",
             "buyurl": "https://rayhan-pro-dev.github.io/pdf-books/books.json"
-
-        }
-    ]
-
+    }
+}
