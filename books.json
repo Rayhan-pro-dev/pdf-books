@@ -4,7 +4,7 @@
             "name": "database",
             "price": "230",
             "department": "ent",
-            "buyurl": "https://rayhan-pro-dev.github.io/pdf-books/books.json"
+            "buyurl": "https://rayhan-pro-dev.github.io/pdf-books/git-cheat-sheet-education.pdf"
 
     },
     "1": {
@@ -12,6 +12,6 @@
             "name": "database",
             "price": "230",
             "department": "ent",
-            "buyurl": "https://rayhan-pro-dev.github.io/pdf-books/books.json"
+            "buyurl": "https://rayhan-pro-dev.github.io/pdf-books/"
     }
 }
