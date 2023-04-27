@@ -4,7 +4,8 @@
             "name": "database",
             "price": "230",
             "department": "ent",
-            "buyurl": "https://rayhan-pro-dev.github.io/pdf-books/git-cheat-sheet-education.pdf"
+            "buyUrl": "https://rayhan-pro-dev.github.io/pdf-books/git-cheat-sheet-education.pdf",
+            "url": "https://rayhan-pro-dev.github.io/pdf-books/git-cheat-sheet-education.pdf"
 
     },
     "1": {
@@ -12,6 +13,7 @@
             "name": "database",
             "price": "230",
             "department": "ent",
-            "buyurl": "https://rayhan-pro-dev.github.io/pdf-books/666%20Computer%20Technology%207th%20Sem.pdf"
+            "buyurl": "https://rayhan-pro-dev.github.io/pdf-books/666%20Computer%20Technology%207th%20Sem.pdf",
+            "url": "https://rayhan-pro-dev.github.io/pdf-books/git-cheat-sheet-education.pdf"
     }
 }
