@@ -1,7 +1,7 @@
 {
     "0": {
-            "code": "6664",
-            "name": "database",
+            "code": "66904",
+            "name": "oparating system",
             "price": "230",
             "department": "ent",
             "buyUrl": "https://rayhan-pro-dev.github.io/pdf-books/git-cheat-sheet-education.pdf",
@@ -9,11 +9,11 @@
 
     },
     "1": {
-            "code": "6664",
+            "code": "6645",
             "name": "database",
-            "price": "230",
+            "price": "260",
             "department": "ent",
-            "buyurl": "https://rayhan-pro-dev.github.io/pdf-books/666%20Computer%20Technology%207th%20Sem.pdf",
+            "buyUrl": "https://rayhan-pro-dev.github.io/pdf-books/666%20Computer%20Technology%207th%20Sem.pdf",
             "url": "https://rayhan-pro-dev.github.io/pdf-books/git-cheat-sheet-education.pdf"
     }
 }
