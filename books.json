@@ -15,5 +15,13 @@
             "department": "ent",
             "buyUrl": "https://rayhan-pro-dev.github.io/pdf-books/666%20Computer%20Technology%207th%20Sem.pdf",
             "url": "https://rayhan-pro-dev.github.io/pdf-books/git-cheat-sheet-education.pdf"
+    },
+    "2": {
+            "code": "8888",
+            "name": "security",
+            "price": "240",
+            "department": "computer",
+            "buyUrl": "https://rayhan-pro-dev.github.io/pdf-books/Pdf%20security%20.pdf",
+            "url": "https://rayhan-pro-dev.github.io/pdf-books/Pdf%20security%20.pdf"
     }
 }
