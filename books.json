@@ -4,8 +4,8 @@
             "name": "oparating system",
             "price": "230",
             "department": "ent",
-            "buyUrl": "https://rayhan-pro-dev.github.io/pdf-books/git-cheat-sheet-education.pdf",
-            "url": "https://rayhan-pro-dev.github.io/pdf-books/git-cheat-sheet-education.pdf"
+            "buyUrl": "https://ai-rayhan.github.io/pdf-books/git-cheat-sheet-education.pdf",
+            "url": "https://ai-rayhan.github.io/pdf-books/git-cheat-sheet-education.pdf"
 
     },
     "1": {
@@ -13,15 +13,15 @@
             "name": "database",
             "price": "260",
             "department": "ent",
-            "buyUrl": "https://rayhan-pro-dev.github.io/pdf-books/666%20Computer%20Technology%207th%20Sem.pdf",
-            "url": "https://rayhan-pro-dev.github.io/pdf-books/git-cheat-sheet-education.pdf"
+            "buyUrl": "https://ai-rayhan.github.io/pdf-books/666%20Computer%20Technology%207th%20Sem.pdf",
+            "url": "https://ai-rayhan.github.io/pdf-books/git-cheat-sheet-education.pdf"
     },
     "2": {
             "code": "8888",
             "name": "security",
             "price": "240",
             "department": "computer",
-            "buyUrl": "https://rayhan-pro-dev.github.io/pdf-books/Pdf%20security%20.pdf",
-            "url": "https://rayhan-pro-dev.github.io/pdf-books/Pdf%20security%20.pdf"
+            "buyUrl": "https://ai-rayhan.github.io/pdf-books/Pdf%20security%20.pdf",
+            "url": "https://ai-rayhan.github.io/pdf-books/Pdf%20security%20.pdf"
     }
 }
